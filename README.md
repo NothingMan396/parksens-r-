@@ -1,0 +1,2 @@
+# parksens-r-
+mesafesensörü
